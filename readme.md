@@ -4,12 +4,7 @@
   <img src="weather_project/images/django logo.png" alt="Descripción de la Imagen">
 </div>
 
-<div align="center">
-  <video width="600" controls>
-    <source src="https://www.youtube.com/watch?v=HF-DfZvor-8" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+Link al VIDEO PRESENTACIÓN: https://www.youtube.com/watch?v=HF-DfZvor-8
 
 ## Índice.
 1. [Descripción del Proyecto](#descripción-del-proyecto)
