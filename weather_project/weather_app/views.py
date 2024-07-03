@@ -43,10 +43,10 @@ def fetch_weather(city, api_key, current_weather_url):
 
     return weather_data
 
-
+# Actualización para agregar Pronóstico de 5 días posteriores, no se pudo hacer porque estos datos se consiguen con la API Paga.
 '''
 def index(request):
-    api_key = 'e088e0b95f0477f5b1e15c131f53b207'
+    api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
     current_weather_url = 'https://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
     forecast_url = 'https://api.openweathermap.org/data/2.5/onecall?lat={}&lon={}&exclude=current,minutely,hourly,alerts&appid={}'
 
